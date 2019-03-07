@@ -10,7 +10,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 
 @snap[west text-25 text-bold text-white]
 
-# @size[3.5 em](So what the hell is DXS) <br> Rise of Digtal Xperience Stack
+So what the hell is DXS <br> Rise of Digtal Xperience Stack
 
 @snapend
 
