@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #232526, #414345)
 @title[So what the hell is DXS]
 
 <!--
@@ -9,11 +9,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-So what the hell is <br> Rise of DXS
-@snapend
-
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+So what the hell is DXS <br> Rise of DXS
 @snapend
 
 ---
