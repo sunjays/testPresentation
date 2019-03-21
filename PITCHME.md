@@ -1,4 +1,7 @@
 ---?color=linear-gradient(to right, #000000, #434343)
+
+---
+
 @title[So what the hell is DXS]
 
 <!--
@@ -10,7 +13,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 
 @snap[west text-25 text-bold text-white]
 
-So what the hell is DXS <br> #@size[0.2em]Rise of Digtal Xperience Stack
+![JS Developer](template\img\LarryMurphy_Chinnook.png)
 
 @snapend
 
