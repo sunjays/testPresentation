@@ -15,8 +15,6 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 
 ![JS Developer](template\img\LarryMurphy_Chinnook.png)
 
-@snapend
-
 ---
 
 ---
