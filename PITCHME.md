@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #000000, #434343)
 @size[3.4em] @color[#ffffff](JS Developer)
 
-![JS Dev](template\img\LarryMurphy_Chinnook.png)
+![LarryMurphy_Chinook](template\img\LarryMurphy_Chinnook.png)
 
 ---
 
