@@ -1,5 +1,5 @@
 ---?color=linear-gradient(to right, #000000, #434343)
-@size[24px](JS Developer)
+@size[3.4em] @color[#ffffff](JS Developer)
 
 ---
 
